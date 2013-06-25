@@ -1,4 +1,4 @@
-diy_flyer
+diy flyer translator
 =========
 
-Diy.org flyer that translates into multiple languages
+This translator takes the Diy.org flyer and translates into multiple languages using Google translate API.
